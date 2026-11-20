@@ -29,22 +29,36 @@
 ## Результаты работы программы
 
 **<ins>1. Главное окно приложения</ins>**
+
 После запуска программы отображается окно с тремя полями ввода и кнопкой сброса
 
+<img width="529" height="466" alt="image" src="https://github.com/user-attachments/assets/fd96ddcd-5f45-44b1-939d-b98e713969c2" />
 
 
 **<ins>2. Изменение суммы в долларах</ins>**
+
 Внесём сумму в 20 долларов в соответсвующее поле ввода, получим результат конвертации в других полях
+
+<img width="525" height="462" alt="image" src="https://github.com/user-attachments/assets/d3a39f22-a1e2-42f8-9fd3-75125deb5bd0" />
 
 
 **<ins>3. Изменение суммы в евро</ins>**
+
 Внесём сумму в 37 евро в соответсвующее поле ввода, получим результат конвертации в других полях
 
+<img width="524" height="462" alt="image" src="https://github.com/user-attachments/assets/9790e76a-ab5a-4630-812f-0dfe0599be7b" />
+
 **<ins>4. Изменение суммы в рублях</ins>**
+
 Внесём сумму в 27000 рублей в соответсвующее поле ввода, получим результат конвертации в других полях
 
+<img width="528" height="466" alt="image" src="https://github.com/user-attachments/assets/bfea8da9-01f6-477c-9df1-e1f70208cbc2" />
+
 **<ins>5. Сброс значений</ins>**
+
 При нажатии кнопки "Сбросить значения" значения всех полей станут равны 0.00
+
+<img width="529" height="466" alt="image" src="https://github.com/user-attachments/assets/cfb07323-719a-46bb-918a-3cf7be0d4922" />
 
 ## Вывод
 
